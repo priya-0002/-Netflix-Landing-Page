@@ -119,4 +119,14 @@ z-index: 1;
 .banner .box .search input{
     width: 60%;
     height: 9vh;
+    
+   }
+
+   .banner .box .search button{
+    width: 30%;
+    height: 9vh;
+    background-color: red;
+    color: white;
+    
+    
    }
