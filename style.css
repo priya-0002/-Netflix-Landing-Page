@@ -115,3 +115,8 @@ z-index: 1;
  width: 60%;
  height: 9vh;
 }
+
+.banner .box .search input{
+    width: 60%;
+    height: 9vh;
+   }
